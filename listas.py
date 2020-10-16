@@ -1,4 +1,4 @@
-print('\nSecuencias de objetos mutables')
+print('\nListas \nSecuencias de objetos mutables')
 
 my_list = [1, 2, 3]
 print('\n my_list = [1, 2, 3]  Para hacer uso de ellas se meten los valores en corchetes \n')
